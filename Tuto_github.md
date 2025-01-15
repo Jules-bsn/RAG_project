@@ -1,43 +1,93 @@
-Tuto github 
+# **Tuto GitHub**
 
-Pour ajouter un fichier : 
-git add nomdufichier
+## **Ajouter et gérer des fichiers**
 
---> il faut bien ajouter le fichier au git sinon on ne pourra comit les changements 
+- **Pour ajouter un fichier** :  
+  ```bash
+  git add <nom_du_fichier>
+  ```
+  ➡️ **Important** : Il faut bien ajouter le fichier à Git sinon il sera impossible de commit les changements.
 
-Pour faire un commit pour sauvegarder les modifications localement :
-git commit -m "Message du commit"
+- **Pour faire un commit** (sauvegarder les modifications localement) :  
+  ```bash
+  git commit -m "Message du commit"
+  ```
 
-Pour synchroniser les changements avec github : 
-git push
+- **Pour synchroniser les changements avec GitHub** :  
+  ```bash
+  git push
+  ```
 
-Pour mettre à jour ton dépôt local (si des modifications ont été faites en ligne) : 
-git pull
+- **Pour mettre à jour ton dépôt local** (si des modifications ont été faites en ligne) :  
+  ```bash
+  git pull
+  ```
 
-Manage branches :
-Branches allow to work without affecting the main code
+---
 
-Create a branch : git branch branchname
+## **Gestion des branches**
+Les branches permettent de travailler sur différentes fonctionnalités sans affecter le code principal.
 
-Show us all the branches and the one with * is the one who you are : 
-Git branch 
+- **Créer une branche** :  
+  ```bash
+  git branch <branchname>
+  ```
 
-To go in a branch created : git checkout <nom_de_branche>
-or : git switch <branchname>
+- **Afficher toutes les branches** (la branche avec `*` est celle sur laquelle vous êtes actuellement) :  
+  ```bash
+  git branch
+  ```
 
-Rename a branch : git branch -m <new-branch-name>
+- **Aller dans une branche existante** :  
+  ```bash
+  git checkout <nom_de_branche>
+  ```
+  OU :  
+  ```bash
+  git switch <nom_de_branche>
+  ```
 
-To delete a branch : git branch -d <branchname>
+- **Renommer une branche** :  
+  ```bash
+  git branch -m <nouveau_nom>
+  ```
 
-To push your branch to the remote repository (e.g., GitHub) for the first time and establish a tracking connection: 
-git push -u origin <branchname>
+- **Supprimer une branche** :  
+  ```bash
+  git branch -d <branchname>
+  ```
 
-After this, for future pushes, you can simply use : git push
+- **Pousser une branche sur GitHub pour la première fois et établir une connexion** :  
+  ```bash
+  git push -u origin <branchname>
+  ```
+  ➡️ Après cela, pour les prochains push :  
+  ```bash
+  git push
+  ```
 
---> To merge a branch into another 
-Switch to the branch you want to merge into : git checkout main
-Merge the other branch into it: git merge <branchname>
+---
 
-Undo changes in branches : 
-To discard uncommitted changes : git restore <filename>
-To reset everything to the last commit : git reset --hard
+## **Fusion de branches**
+- **Changer vers la branche dans laquelle vous voulez fusionner** :  
+  ```bash
+  git checkout main
+  ```
+
+- **Fusionner une autre branche dans la branche actuelle** :  
+  ```bash
+  git merge <branchname>
+  ```
+
+---
+
+## **Annuler des changements**
+- **Pour annuler des modifications non commit (working directory)** :  
+  ```bash
+  git restore <fichier>
+  ```
+
+- **Pour réinitialiser tout à l’état du dernier commit** :  
+  ```bash
+  git reset --hard
+  
