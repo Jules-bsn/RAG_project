@@ -4,6 +4,9 @@ import os
 from pathlib import Path
 import pdfplumber
 import requests
+import json
+
+print(json.dumps({"test": "success"}))
 
 # Charge les variables d'environnement depuis le fichier .env
 env_path = Path('/Users/julesbesson/Documents/Projet_EY/Projet_EY/RAG/.env')  # Fichier .env est dans le dossier parent
@@ -26,13 +29,28 @@ print(token)
 headers = {'Authorization': token}
 print(headers)
 
+def extract_text_from_pdf(pdf_path):
+    """
+    Extrait le texte brut d'un fichier PDF.
+    """
+    try:
+        with pdfplumber.open(pdf_path) as pdf:
+            text = ""
+            for page in pdf.pages:  # Parcourt chaque page du PDF
+                text += page.extract_text()
+        print("Extraction du texte terminée.")
+        return text
+    except Exception as e:
+        print(f"Erreur lors de l'extraction du PDF : {e}")
+        return None
+    
 def structure_text_with_gpt(input_text, base_url, token, model="gpt-4o-mini"):
     # Définir l'URL pour le endpoint completions
     completion_url = base_url + "/completions"
     
     # Construire le prompt
     prompt = (
-        "Génère un fichier JSON contenant les informations suivantes : "
+        "Génère seulement et uniquement un JSON sans texte qui donne la hiéarchie du document ainsi que son contenu en entier : "
         f"{input_text}"
     )
     
@@ -51,7 +69,61 @@ def structure_text_with_gpt(input_text, base_url, token, model="gpt-4o-mini"):
     # Envoyer la requête POST à l'API
     response = requests.post(completion_url, json=data, headers=headers)
     response_text = response.content.decode('utf-8')
-    print(f"Reponse : {response_text}")
-    
+    #print(f"Reponse : {response_text}")
+    return response_text
 
-structure_text_with_gpt("Nom, prénom, age, profession", base_url, token, model="gpt-4o-mini")
+
+def save_json_to_file(json_content, output_path):
+    """
+    Sauvegarde le contenu JSON dans un fichier.
+    :param json_content: Le contenu JSON à sauvegarder (sous forme de dict ou string JSON).
+    :param output_path: Le chemin où enregistrer le fichier JSON.
+    """
+    try:
+        # Si le JSON est sous forme de string, le convertir en dict
+        if isinstance(json_content, str):
+            json_content = json.loads(json_content)
+            print("Json is instance")
+
+        # Écrire dans un fichier
+        with open(output_path, 'w', encoding='utf-8') as json_file:
+            json.dump(json_content, json_file, indent=4, ensure_ascii=False)
+        print(f"Le fichier JSON a été sauvegardé avec succès dans : {output_path}")
+    except Exception as e:
+        print(f"Erreur lors de la sauvegarde du JSON : {e}")
+
+def save_json_to_file_V2(json_content, output_path):
+    """
+    Sauvegarde le contenu JSON dans un fichier.
+    :param json_content: Le contenu JSON à sauvegarder (sous forme de dict ou string JSON).
+    :param output_path: Le chemin où enregistrer le fichier JSON.
+    """
+    try:
+        # Si le JSON est sous forme de string, le convertir en dict
+        if isinstance(json_content, str):
+            json_content = json.loads(json_content)
+            print("Json is instance")
+
+        # Écrire dans un fichier
+        with open(output_path, 'w', encoding='utf-8') as json_file:
+            json.dump(json_content, json_file, indent=4, ensure_ascii=False)
+        print(f"Le fichier JSON a été sauvegardé avec succès dans : {output_path}")
+    except Exception as e:
+        print(f"Erreur lors de la sauvegarde du JSON : {e}")
+
+def save_json_into_file (response_text, output_json_path):
+    try:
+        save_json_to_file_V2(response_text, output_json_path)
+    except Exception as e:
+        print(f"Erreur lors de la sauvegarde de la réponse JSON : {e}")
+
+pdf_path = "/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/FR_Loi_eckert.pdf" 
+output_path ="/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/structured_data/structured_Loi_eckert.json"
+input_text = extract_text_from_pdf(pdf_path)
+
+
+response_text =structure_text_with_gpt(input_text, base_url, token, model="gpt-4o-mini")
+
+print(f"Contenu brut de la réponse : {response_text}")
+save_json_into_file(response_text, output_path)
+
