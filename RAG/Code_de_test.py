@@ -50,7 +50,8 @@ def structure_text_with_gpt(input_text, base_url, token, model="gpt-4o-mini"):
     
     # Construire le prompt
     prompt = (
-        "Génère seulement et uniquement un JSON sans texte qui donne la hiéarchie du document ainsi que son contenu en entier : "
+       # "Génère seulement et uniquement un JSON sans texte qui donne la hiéarchie du document ainsi que son contenu en entier : (Reste sur un petit niveau de granularité) "
+       "Est ce que tu peux générer seulement et uniquement un JSON sans texte qui me donne uniquement la hiéarchie du texte (je ne veux pas que le content soit rempli, seulement la hiéarchie) extrait dun document de loi le but étant ensuite de donné la structure à un code pour extraire le contenu :"
         f"{input_text}"
     )
     
@@ -58,7 +59,7 @@ def structure_text_with_gpt(input_text, base_url, token, model="gpt-4o-mini"):
     data = {
         'model': model,
         'prompt': prompt,
-        'max_tokens': 10000,  # Augmenter si le texte est long
+        'max_tokens': 15000,  # Augmenter si le texte est long
         'temperature': 0.2  # Garde une température basse pour des résultats cohérents
     }
     

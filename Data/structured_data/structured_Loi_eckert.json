@@ -1,6 +1,0 @@
-{
-    "code": "context_length_exceeded",
-    "message": "This model's maximum context length is 128000 tokens. However, you requested 134559 tokens (14559 in the messages, 120000 in the completion). Please reduce the length of the messages or completion.",
-    "param": "messages",
-    "type": "invalid_request_error"
-}
