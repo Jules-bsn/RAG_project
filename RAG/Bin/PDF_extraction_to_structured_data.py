@@ -135,7 +135,7 @@ def process_pdf_to_structured_data(pdf_path, output_file, base_url, auth):
 if __name__ == "__main__":
     # Configuration
     pdf_path = "/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/FR_Loi_eckert.pdf" 
-    output_file = "/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/structured_data/structured_Loi_eckert.json"  # Nom du fichier de sortie
+    output_file = "/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/structured_data_JSON/structured_Loi_eckert.json"  # Nom du fichier de sortie
     base_url = base_url
     # Lancer le pipeline
     process_pdf_to_structured_data(pdf_path, output_file, base_url, auth)

@@ -83,7 +83,7 @@ def save_to_json(data, output_file):
 
 # Chemin du fichier PDF
 file_path = "/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/FR_Loi_eckert.pdf" 
-output_file ="/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/structured_data/structured_Loi_eckert.json"
+output_file ="/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/structured_data_JSON/structured_Loi_eckert.json"
 text = extract_text_from_pdf(file_path)
 structured_data = structure_law_with_custom_api(text)
 save_to_json(structured_data, output_file)

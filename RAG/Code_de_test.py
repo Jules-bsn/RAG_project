@@ -50,8 +50,8 @@ def structure_text_with_gpt(input_text, base_url, token, model="gpt-4o-mini"):
     
     # Construire le prompt
     prompt = (
-       # "Génère seulement et uniquement un JSON sans texte qui donne la hiéarchie du document ainsi que son contenu en entier : (Reste sur un petit niveau de granularité) "
-       "Est ce que tu peux générer seulement et uniquement un JSON sans texte qui me donne uniquement la hiéarchie du texte (je ne veux pas que le content soit rempli, seulement la hiéarchie) extrait dun document de loi le but étant ensuite de donné la structure à un code pour extraire le contenu :"
+        "Génère seulement et uniquement un JSON sans texte qui donne la hiéarchie du document ainsi que son contenu en entier :  "
+       #"Est ce que tu peux générer seulement et uniquement un JSON sans texte qui me donne uniquement la hiéarchie du texte (je ne veux pas que le content soit rempli, seulement la hiéarchie) extrait dun document de loi le but étant ensuite de donné la structure à un code pour extraire le contenu :"
         f"{input_text}"
     )
     
@@ -119,7 +119,7 @@ def save_json_into_file (response_text, output_json_path):
         print(f"Erreur lors de la sauvegarde de la réponse JSON : {e}")
 
 pdf_path = "/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/FR_Loi_eckert.pdf" 
-output_path ="/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/structured_data/structured_Loi_eckert.json"
+output_path ="/Users/julesbesson/Documents/Projet_EY/Projet_EY/Data/structured_data_JSON/structured_Loi_eckert.json"
 input_text = extract_text_from_pdf(pdf_path)
 
 

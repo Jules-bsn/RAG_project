@@ -1,0 +1,1056 @@
+{
+    "sections": [
+        {
+            "loi": {
+                "numero": "2014-617",
+                "date": "13 juin 2014",
+                "titre": "relative aux comptes bancaires inactifs et aux contrats d'assurance vie en déshérence",
+                "nor": "FCPX1402615L",
+                "adoption": {
+                    "assemblee_nationale": true,
+                    "senat": true,
+                    "promulgation": {
+                        "president_republique": true
+                    }
+                },
+                "chapitres": [
+                    {
+                        "titre": "Comptes inactifs",
+                        "articles": [
+                            {
+                                "numero": "1er",
+                                "sections": [
+                                    {
+                                        "titre": "Section 4",
+                                        "sous_titre": "Comptes inactifs",
+                                        "articles": [
+                                            {
+                                                "numero": "L. 312-19",
+                                                "paragraphes": [
+                                                    {
+                                                        "id": "I",
+                                                        "contenu": [
+                                                            "Les établissements de crédit mentionnés au titre Ier du livre V ainsi que les établissements de monnaie électronique et les établissements de paiement mentionnés au titre II du même livre recensent chaque année les comptes inactifs ouverts dans leurs livres.",
+                                                            {
+                                                                "definition": "Un compte est considéré comme inactif:",
+                                                                "conditions": [
+                                                                    {
+                                                                        "condition": "1o",
+                                                                        "details": [
+                                                                            {
+                                                                                "sous_condition": "a",
+                                                                                "contenu": "Le compte n’a fait l’objet d’aucune opération, hors inscription d’intérêts et débit par l’établissement tenant le compte de frais et commissions de toutes natures ou versement de produits ou remboursement de titres de capital ou de créance."
+                                                                            },
+                                                                            {
+                                                                                "sous_condition": "b",
+                                                                                "contenu": "Le titulaire du compte, son représentant légal ou la personne habilitée par lui ne s’est pas manifesté, sous quelque forme que ce soit, auprès de cet établissement ni n’a effectué aucune opération sur un autre compte ouvert à son nom dans les livres de l’établissement."
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "condition": "La période de douze mois est portée à cinq ans pour les comptes sur lesquels sont inscrits des titres financiers, les comptes sur livret, les comptes à terme et les comptes sur lesquels sont inscrits des avoirs et dépôts au titre des produits d’épargne mentionnés au titre II du livre II.",
+                                                                        "details": "Lorsque les sommes déposées sur un compte ou les titres inscrits en compte sont indisponibles pendant une certaine période en vertu de dispositions légales, de stipulations contractuelles ou de l’existence d’une sûreté conventionnelle, la période de cinq ans commence à courir au terme de la période d’indisponibilité."
+                                                                    },
+                                                                    {
+                                                                        "condition": "2o",
+                                                                        "details": [
+                                                                            {
+                                                                                "contenu": "Soit, si son titulaire est décédé, à l’issue d’une période de douze mois suivant le décès au cours de laquelle aucun de ses ayants droit n’a informé l’établissement tenant le compte de sa volonté de faire valoir ses droits sur les avoirs et dépôts qui y sont inscrits."
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "Un compte qui remplit les conditions prévues au 1o en raison de l’application de dispositions légales ou réglementaires ou d’une décision de justice n’est pas un compte inactif au sens du présent article.",
+                                                            "Pour l’application du 2o, les établissements mentionnés au premier alinéa du présent I mettent en œuvre, dans le respect de la loi no 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, des traitements de données personnelles ayant pour finalité la recherche des titulaires décédés de comptes remplissant les conditions prévues au 1o. A cet effet, ils consultent chaque année, dans des conditions fixées par décret en Conseil d’Etat, les données figurant au répertoire national d’identification des personnes physiques et relatives au décès des personnes inscrites.",
+                                                            "Lorsqu’un compte est considéré comme inactif, l’établissement tenant ce compte en informe par tout moyen à sa disposition le titulaire, son représentant légal, la personne habilitée par lui ou, le cas échéant, ses ayants droit connus de l’établissement et leur indique les conséquences qui y sont attachées en application du présent article et de l’article L. 312-20."
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "II",
+                                                        "contenu": "Les établissements mentionnés au premier alinéa du I du présent article publient, chaque année, chacun pour ce qui le concerne, le nombre de comptes inactifs ouverts dans leurs livres et le montant total des dépôts et avoirs inscrits sur ces comptes."
+                                                    },
+                                                    {
+                                                        "id": "III",
+                                                        "contenu": "Le montant annuel des frais et commissions de toutes natures prélevés sur les comptes mentionnés aux 1o et 2o du I est plafonné."
+                                                    },
+                                                    {
+                                                        "id": "IV",
+                                                        "contenu": "Les conditions d’application du présent article sont déterminées par décret."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "decret": {
+                "date": "15 juin 2014",
+                "journal_officiel": "JOURNAL OFFICIEL DE LA RÉPUBLIQUE FRANÇAISE",
+                "articles": {
+                    "L. 312-20": {
+                        "sections": {
+                            "I": {
+                                "contenu": [
+                                    {
+                                        "description": "Les dépôts et avoirs inscrits sur les comptes inactifs mentionnés à l’article L. 312-19 sont déposés à la Caisse des dépôts et consignations.",
+                                        "conditions": [
+                                            {
+                                                "condition": "Pour les comptes inactifs mentionnés au 1o du I du même article L. 312-19, à l’issue d’un délai de dix ans à compter de la date de la dernière opération.",
+                                                "détails": "Hors inscription d’intérêts et débit par l’établissement tenant le compte de frais et commissions de toutes natures ou versement de produits ou remboursement de titres de capital ou de créance, ou à compter de la date de la dernière manifestation du titulaire du compte, de son représentant légal ou de la personne habilitée par lui ou à compter du terme de la période d’indisponibilité mentionnée au dernier alinéa du même 1o."
+                                            },
+                                            {
+                                                "condition": "Pour les comptes inactifs mentionnés au 2o du I du même article L. 312-19, à l’issue d’un délai de trois ans après la date du décès du titulaire du compte."
+                                            }
+                                        ],
+                                        "publication": "Les établissements procédant aux dépôts mentionnés au premier alinéa du présent I publient, chaque année, chacun pour ce qui le concerne, le nombre de comptes dont les dépôts et avoirs sont ainsi déposés et le montant total des dépôts et avoirs ainsi déposés."
+                                    },
+                                    {
+                                        "description": "Les avoirs en instruments financiers sont liquidés par l’établissement tenant le compte.",
+                                        "conditions": [
+                                            {
+                                                "condition": "Nonobstant toute stipulation contraire, dans les meilleurs délais à l’issue des périodes de dix ans ou de trois ans mentionnées, respectivement, aux 1o et 2o du présent I.",
+                                                "responsabilité": "Cet établissement ne peut être tenu responsable des effets de la liquidation sur la valeur des avoirs."
+                                            }
+                                        ],
+                                        "dépôt": "Le produit de la liquidation est déposé à la Caisse des dépôts et consignations dans les trois mois qui suivent l’expiration des périodes de dix ans ou de trois ans mentionnées."
+                                    },
+                                    {
+                                        "description": "Les droits d’associé et les titres financiers mentionnés aux 1 et 2 du II de l’article L. 211-1 non admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation ne sont ni liquidés, ni déposés à la Caisse des dépôts et consignations."
+                                    },
+                                    {
+                                        "description": "Six mois avant l’expiration du délai mentionné au 1o du présent I, l’établissement tenant le compte informe, par tout moyen à sa disposition, son titulaire, son représentant légal, la personne habilitée par lui ou, le cas échéant, ses ayants droit connus de l’établissement de la mise en œuvre du présent article."
+                                    }
+                                ]
+                            },
+                            "II": {
+                                "contenu": "Le dépôt, à la Caisse des dépôts et consignations, des sommes déposées sur un compte ou du produit de la liquidation des titres inscrits sur un compte dans les conditions prévues au I entraîne la clôture de ces comptes, nonobstant toute stipulation contractuelle contraire."
+                            },
+                            "III": {
+                                "contenu": [
+                                    {
+                                        "description": "Par dérogation au premier alinéa de l’article L. 518-24, les sommes déposées à la Caisse des dépôts et consignations en application du I du présent article et qui n’ont pas été réclamées par leurs titulaires ou par leurs ayants droit sont acquises à l’Etat à l’issue d’un délai.",
+                                        "délai": [
+                                            {
+                                                "condition": "De vingt ans à compter de la date de leur dépôt à la Caisse des dépôts et consignations en application du 1o du même I."
+                                            },
+                                            {
+                                                "condition": "De vingt-sept ans à compter de la date de leur dépôt à la Caisse des dépôts et consignations en application du 2o dudit I."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "description": "Jusqu’à l’expiration de ces délais, les sommes déposées à la Caisse des dépôts et consignations sont détenues par celle-ci pour le compte des titulaires ou de leurs ayants droit."
+                                    }
+                                ]
+                            },
+                            "IV": {
+                                "contenu": "Jusqu’à l’expiration des délais."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "article": {
+                "titre": "Article L. 312-19",
+                "sections": [
+                    {
+                        "titre": "I",
+                        "contenu": "Les établissements mentionnés au premier alinéa du I de l’article L. 312-19 sont tenus de conserver les informations et documents relatifs au solde des comptes à la date du dépôt prévu au I du présent article, à la computation des délais mentionnés au même I et au régime d’imposition applicable, ainsi que les informations et documents permettant d’identifier les titulaires de ces comptes et, le cas échéant, leurs ayants droit. Ces informations et documents sont transmis à la Caisse des dépôts et consignations à sa demande."
+                    },
+                    {
+                        "titre": "V",
+                        "contenu": "Pour chaque dépôt correspondant à un compte, le montant des sommes versées par la Caisse des dépôts et consignations à son titulaire ou à ses ayants droit ou acquises par l’Etat ne peut être inférieur au montant des sommes déposées à la Caisse des dépôts et consignations, diminué, le cas échéant, des versements partiels réalisés par la Caisse des dépôts et consignations en application du III."
+                    },
+                    {
+                        "titre": "Publicité de l'identité des titulaires",
+                        "contenu": "La Caisse des dépôts et consignations organise, dans le respect de la loi no 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, la publicité appropriée de l’identité des titulaires de compte dont les avoirs ont fait l’objet du dépôt mentionné au premier alinéa du I, afin de permettre à ces personnes ou à leurs ayants droit de percevoir les sommes qui ont été ainsi déposées et qui leur sont dues."
+                    },
+                    {
+                        "titre": "Communication des informations",
+                        "contenu": "Les titulaires de compte ou les ayants droit communiquent à la Caisse des dépôts et consignations les informations permettant de vérifier leur identité et de déterminer le montant des sommes qui leur sont dues."
+                    },
+                    {
+                        "titre": "Demande du notaire",
+                        "contenu": "Le notaire chargé d’établir l’actif successoral en vue du règlement de la succession pour laquelle il a été mandaté obtient sur sa demande auprès de la Caisse des dépôts et consignations la communication des informations détenues par celle-ci en application du IV ainsi que le versement des sommes déposées en application du I, à charge pour lui de les restituer aux ayants droit du titulaire du compte."
+                    },
+                    {
+                        "titre": "Mandat du notaire",
+                        "contenu": "Le notaire joint à sa demande le mandat l’autorisant à agir au nom des ayants droit."
+                    },
+                    {
+                        "titre": "VI",
+                        "contenu": "Un coffre-fort mis à disposition par un établissement de crédit est considéré comme inactif lorsque son titulaire, le représentant légal de ce dernier ou la personne habilitée par lui ou l’un de ses ayants droit ne s’est pas manifesté, sous quelque forme que ce soit, ni n’a effectué aucune opération sur un compte ouvert à son nom dans les livres de l’établissement pendant une durée d’au moins dix ans et que, à l’issue de cette période de dix ans, les frais de location n’ont pas été payés au moins une fois."
+                    },
+                    {
+                        "titre": "Recherche du titulaire",
+                        "contenu": "Lorsqu’un coffre-fort est considéré comme inactif au sens du premier alinéa du présent VI, l’établissement de crédit procède à la recherche du titulaire éventuellement décédé dans les conditions prévues à l’avant-dernier alinéa du I de l’article L. 312-19. Il informe le titulaire, son représentant légal, la personne habilitée par lui ou, le cas échéant, ses ayants droit connus de l’établissement des conséquences prévues aux deux derniers alinéas du présent VI liées à l’inactivité du coffre-fort en application du présent article. Ces deux opérations de recherche et d’information sont renouvelées tous les cinq ans à compter de la date du premier impayé."
+                    },
+                    {
+                        "titre": "Ouverture du coffre-fort",
+                        "contenu": "A l’expiration d’un délai de vingt ans à compter de la date du premier impayé mentionné au premier alinéa du présent VI, l’établissement est autorisé à procéder à l’ouverture du coffre-fort, en présence d’un huissier de justice qui dresse l’inventaire de son contenu, et, selon les cas, soit à liquider les titres déposés dans le coffre-fort dans les conditions définies au cinquième alinéa du I du présent article, soit à faire vendre judiciairement aux enchères publiques les biens déposés dans le coffre-fort. Six mois avant l’expiration de ce délai, il informe, par courrier recommandé et par tout autre moyen à sa disposition, le titulaire."
+                    }
+                ]
+            }
+        },
+        {
+            "chapitres": [
+                {
+                    "titre": "CHAPITRE I",
+                    "articles": [
+                        {
+                            "numéro": "Article 1",
+                            "contenu": {
+                                "texte": "son représentant légal, la personne habilitée par lui ou, le cas échéant, ses ayants droit connus de l’établissement de la mise en œuvre du présent alinéa. Le produit de la vente, déduction faite des frais annuels de location impayés, à l’exclusion de toute pénalité et de tout intérêt de retard, et des frais liés à l’ouverture du coffre-fort et à la vente des biens, est acquis à l’Etat. L’établissement de crédit est autorisé, pour les objets d’une valeur estimée par une personne habilitée pour organiser et réaliser les ventes judiciaires de meubles aux enchères publiques, et inférieure à un seuil fixé par un arrêté du ministre chargé de l’économie, ainsi que pour les objets qui n’ont pu être vendus judiciairement aux enchères publiques après deux tentatives intervenues à six mois d’intervalle, soit à les détruire, soit à les conserver pour le compte du titulaire ou de ses ayants droit, soit, pour les biens pouvant présenter un intérêt culturel ou historique, à les transférer à un service public intervenant dans ces domaines. Dans ce dernier cas, la personne morale dont dépend ce service public devient propriétaire du bien transféré. «L’établissement de crédit ne peut être tenu pour responsable des effets de la vente sur la valeur des biens concernés. «VII. – Les conditions d’application du présent article sont déterminées par décret en Conseil d’Etat."
+                            }
+                        },
+                        {
+                            "numéro": "Article 2",
+                            "contenu": {
+                                "texte": "Le chapitre Ier du titre II du même livre III est complété par un article L. 321-4 ainsi rédigé: « Art. L. 321-4. – Les articles L. 312-19 et L. 312-20 sont applicables aux comptes ouverts dans les livres des personnes qui fournissent des services d’investissement ou des services connexes prévus aux articles L. 321-1 et L. 321-2.»"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "titre": "CHAPITRE II",
+                    "articles": [
+                        {
+                            "numéro": "Article 3",
+                            "sections": [
+                                {
+                                    "numéro": "I",
+                                    "contenu": {
+                                        "texte": "La section 1 du chapitre II du titre III du livre Ier du code des assurances est ainsi modifiée: 1o L’article L. 132-5 est ainsi modifié: a) Le dernier alinéa est ainsi modifié: – le mot: «précise» est remplacé par les mots: «et le contrat d’assurance sur la vie ne comportant pas de valeur de rachat dont les bénéficiaires sont des personnes physiques précisent»; – les mots: «au plus tard du premier anniversaire» sont supprimés; – sont ajoutés les mots et deux phrases ainsi rédigées: «ou, le cas échéant, jusqu’au dépôt de ce capital à la Caisse des dépôts et consignations en application de l’article L. 132-27-2. Les frais prélevés après la date de la connaissance du décès sont plafonnés dans des conditions fixées par décret en Conseil d’Etat. L’assureur ne peut prélever de frais au titre de l’accomplissement de ses obligations de recherche et d’information.»; b) Il est ajouté un alinéa ainsi rédigé: «Pour les contrats d’assurance sur la vie ne comportant pas de valeur de rachat ou de transfert dont les bénéficiaires sont des personnes physiques et pour les contrats comportant une valeur de rachat ou de transfert, la revalorisation, mentionnée au troisième alinéa du présent article, de la part du capital garanti en cas de décès dont la valeur en euros a été arrêtée ne peut être inférieure à un taux fixé par décret en Conseil d’Etat.»; 2o Le II de l’article L. 132-9-3 est ainsi modifié: a) A la première phrase, les mots: «sont autorisés à consulter» sont remplacés par les mots: «consultent chaque année, dans le respect de la loi no 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés,»; b) Après le mot: «assurés», la fin de la dernière phrase est ainsi rédigée: «, des souscripteurs et des bénéficiaires décédés des contrats d’assurance sur la vie et des bons ou contrats de capitalisation, à l’exception de ceux au porteur.»; 15 juin 2014 JOURNAL OFFICIEL DE LA RÉPUBLIQUE FRANÇAISE Texte 1 sur 54 3o Après l’article L. 132-9-3, il est inséré un article L. 132-9-3-1 ainsi rédigé: « Art. L. 132-9-3-1. – Les entreprises d’assurance, les institutions de prévoyance et les unions mentionnées au I de l’article L. 132-9-3 publient chaque année, chacune pour ce qui la"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapitre": {
+                "titre": "Contrats d'assurance sur la vie et bons de capitalisation",
+                "articles": [
+                    {
+                        "numero": "L. 132-22",
+                        "modifications": [
+                            {
+                                "type": "suppression",
+                                "contenu": "Pour les contrats dont la provision mathématique est égale ou supérieure à un montant fixé par arrêté du ministre chargé de l’économie,"
+                            },
+                            {
+                                "type": "suppression",
+                                "contenu": "Pour ces mêmes contrats,"
+                            },
+                            {
+                                "type": "remplacement",
+                                "contenu": [
+                                    {
+                                        "texte": "Pour les contrats comportant un terme, l’entreprise d’assurance ou de capitalisation adresse au contractant, un mois avant la date du terme, un relevé d’information spécifique. Ce relevé contient, outre les informations mentionnées aux alinéas précédents, le rappel en caractères très apparents de la date du terme du contrat, et, le cas échéant, de sa prorogation tacite, et du fait que la revalorisation cesse à compter de cette date, sauf stipulation contractuelle contraire."
+                                    },
+                                    {
+                                        "texte": "Le relevé spécifique mentionné au treizième alinéa est adressé à nouveau par l’entreprise d’assurance ou de capitalisation au contractant un an après le terme du contrat si le contractant ne s’est pas manifesté depuis le terme."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ajout",
+                                "contenu": "L’entreprise d’assurance ou de capitalisation communique également au contractant la date d’échéance du contrat."
+                            }
+                        ]
+                    },
+                    {
+                        "numero": "L. 132-23-1",
+                        "contenu": [
+                            "L’entreprise d’assurance dispose d’un délai de quinze jours, après réception de l’avis de décès et de sa prise de connaissance des coordonnées du bénéficiaire ou au terme prévu pour le contrat, afin de demander au bénéficiaire du contrat d’assurance sur la vie de lui fournir l’ensemble des pièces nécessaires au paiement.",
+                            "A réception de ces pièces, l’entreprise d’assurance verse, dans un délai qui ne peut excéder un mois, le capital ou la rente garantis au bénéficiaire du contrat d’assurance sur la vie.",
+                            "Plusieurs demandes de pièces formulées par l’entreprise d’assurance ne peuvent concerner des pièces identiques ou redondantes.",
+                            "Au-delà du délai prévu au deuxième alinéa, le capital non versé produit de plein droit intérêt au double du taux légal durant deux mois puis, à l’expiration de ce délai de deux mois, au triple du taux légal. Si, au-delà du délai de quinze jours mentionné au premier alinéa, l’entreprise a omis de demander au bénéficiaire l’une des pièces nécessaires au paiement, cette omission n’est pas suspensive du délai de versement mentionné au présent article."
+                        ]
+                    },
+                    {
+                        "numero": "L. 132-27-2",
+                        "contenu": [
+                            "Les sommes dues au titre des contrats d’assurance sur la vie et des bons ou contrats de capitalisation qui ne font pas l’objet d’une demande de versement des prestations ou du capital sont déposées à la Caisse des dépôts et consignations à l’issue d’un délai de dix ans à compter de la date de prise de connaissance par l’assureur du décès de l’assuré ou de l’échéance du contrat. Le dépôt intervient dans le mois suivant l’expiration de ce délai. Les sommes dues au titre d’un contrat d’assurance temporaire en cas de décès ne font pas l’objet de ce dépôt lorsque le décès de l’assuré est intervenu antérieurement au 1er janvier 2015."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "article": {
+                "titre": "Article L. 131-1",
+                "sections": [
+                    {
+                        "titre": "I",
+                        "contenu": [
+                            {
+                                "sous_titre": "Engagements en unités de compte",
+                                "texte": "Le titre des contrats mentionnés au premier alinéa du présent I et comportant, en tout ou partie, des engagements exprimés en unités de compte mentionnés au second alinéa de l’article L. 131-1 ou affectés à l’acquisition de droits donnant lieu à la constitution d’une provision de diversification s’effectue en numéraire. La valeur de ces engagements ou de ces droits est celle atteinte à l’expiration du délai de dix ans mentionné au premier alinéa du présent I, sauf si les stipulations contractuelles prévoient une date antérieure."
+                            },
+                            {
+                                "sous_titre": "Versement en numéraire",
+                                "texte": "Le souscripteur du contrat ou les bénéficiaires des sommes déposées à la Caisse des dépôts et consignations ne peuvent en obtenir le versement qu’en numéraire, nonobstant toute stipulation contraire."
+                            },
+                            {
+                                "sous_titre": "Transmission d'informations",
+                                "texte": "Les entreprises d’assurance, les institutions de prévoyance et les unions transmettent à la Caisse des dépôts et consignations les informations nécessaires, le cas échéant, au versement des sommes mentionnées au troisième alinéa au souscripteur du contrat ou à ses bénéficiaires."
+                            },
+                            {
+                                "sous_titre": "Conservation des informations",
+                                "texte": "Jusqu’à l’expiration du délai mentionné au III, elles conservent les informations et documents relatifs à l’encours des contrats à la date du dépôt prévu au deuxième alinéa du présent I, à la computation du délai mentionné au premier alinéa et au régime d’imposition applicable, ainsi que les informations et documents permettant d’identifier les souscripteurs et les bénéficiaires de ces contrats. Ces informations et documents sont transmis à la Caisse des dépôts et consignations à sa demande. Elles conservent également les informations et documents permettant d’apprécier qu’elles ont satisfait à leurs obligations en matière de contrats non réglés."
+                            },
+                            {
+                                "sous_titre": "Caractère libératoire du dépôt",
+                                "texte": "Le dépôt des sommes à la Caisse des dépôts et consignations en application du présent I est libératoire de toute obligation pour l’assureur et le souscripteur, à l’exception des obligations en matière de conservation d’informations et de documents prévues à l’avant-dernier alinéa. Ce caractère libératoire n’emporte cependant pas exonération de responsabilité pour les manquements commis antérieurement à ce dépôt."
+                            }
+                        ]
+                    },
+                    {
+                        "titre": "II",
+                        "contenu": [
+                            {
+                                "sous_titre": "Information des souscripteurs",
+                                "texte": "Six mois avant l’expiration du délai mentionné au premier alinéa du I du présent article, les entreprises d’assurance, les institutions de prévoyance et les unions mentionnées au I de l’article L. 132-9-3 informent le souscripteur ou les bénéficiaires du contrat, par tout moyen à leur disposition, de la mise en œuvre du présent article."
+                            },
+                            {
+                                "sous_titre": "Publicité de l'identité des souscripteurs",
+                                "texte": "La Caisse des dépôts et consignations organise, dans le respect de la loi no 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, la publicité appropriée de l’identité des souscripteurs des contrats dont les sommes garanties ont fait l’objet du dépôt mentionné au I du présent article, afin de permettre aux souscripteurs ou aux bénéficiaires des contrats de percevoir les sommes qui leur sont dues. Ces derniers communiquent à la Caisse des dépôts et consignations les informations permettant de vérifier leur identité et de déterminer le montant des sommes qui leur sont dues."
+                            },
+                            {
+                                "sous_titre": "Demande du notaire",
+                                "texte": "Le notaire chargé d’établir l’actif successoral en vue du règlement de la succession pour laquelle il a été mandaté obtient, sur sa demande auprès de la Caisse des dépôts et consignations, le versement des sommes déposées en application du I et dues aux ayants droit du défunt, lorsque ces sommes entrent dans l’actif successoral. Le notaire restitue ces sommes aux ayants droit."
+                            },
+                            {
+                                "sous_titre": "Mandat du notaire",
+                                "texte": "Le notaire joint à sa demande le mandat l’autorisant à agir au nom des ayants droit."
+                            }
+                        ]
+                    },
+                    {
+                        "titre": "III",
+                        "contenu": [
+                            {
+                                "sous_titre": "Acquisition des sommes non réclamées",
+                                "texte": "Par dérogation au premier alinéa de l’article L. 518-24 du code monétaire et financier, les sommes déposées à la Caisse des dépôts et consignations en application du présent article et qui n’ont pas été réclamées par le souscripteur ou leurs bénéficiaires sont acquises à l’Etat à l’issue d’un délai de vingt ans à compter de la date de leur dépôt à la Caisse des dépôts et consignations."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "chapitre": {
+                "titre": "Chapitre III",
+                "articles": [
+                    {
+                        "article": {
+                            "numero": 4,
+                            "sections": [
+                                {
+                                    "section": {
+                                        "numero": 1,
+                                        "modifications": [
+                                            {
+                                                "modification": {
+                                                    "article": "L. 223-10-2",
+                                                    "changes": [
+                                                        {
+                                                            "type": "remplacement",
+                                                            "contenu": {
+                                                                "original": "sont autorisés à consulter",
+                                                                "nouveau": "consultent chaque année, dans le respect de la loi no 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés,"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "ajout",
+                                                            "contenu": {
+                                                                "original": "bénéficiaires",
+                                                                "nouveau": "décédés des contrats d’assurance sur la vie et des bons ou contrats de capitalisation, à l’exception de ceux au porteur."
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "modification": {
+                                                    "article": "L. 223-10-2-1",
+                                                    "contenu": "Les mutuelles et les unions publient, chaque année, chacune pour ce qui la concerne, le nombre et l’encours des contrats non réglés. Elles précisent les démarches, le nombre de recherches et le nombre et l’encours des contrats correspondants qu’elles ont effectuées au cours de l’année au titre des deux derniers alinéas de l’article L. 223-10-1 et de l’article L. 223-10-2, ainsi que les sommes dont le versement au bénéficiaire résulte de ces démarches. Elles établissent chaque année, chacune pour ce qui la concerne, un rapport, adressé à leur demande à l’Autorité de contrôle prudentiel et de résolution et au ministre chargé de l’économie, précisant le nombre et l’encours des contrats d’assurance sur la vie et des bons et contrats de capitalisation répondant à des critères fixés par arrêté du ministre chargé de l’économie, dont les capitaux ou les rentes dus n’ont pas été versés au bénéficiaire."
+                                                }
+                                            },
+                                            {
+                                                "modification": {
+                                                    "article": "L. 223-19-1",
+                                                    "changes": [
+                                                        {
+                                                            "type": "remplacement",
+                                                            "contenu": {
+                                                                "original": "précise",
+                                                                "nouveau": "et l’opération d’assurance sur la vie ne comportant pas de valeur de rachat dont les bénéficiaires sont des personnes physiques précisent"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "suppression",
+                                                            "contenu": {
+                                                                "original": "au plus tard du premier anniversaire"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "ajout",
+                                                            "contenu": "ou, le cas échéant, jusqu’au dépôt de ce capital à la Caisse des dépôts et consignations en application de l’article L. 223-25-4. Pour les contrats d’assurance sur la vie ne comportant pas de valeur de rachat ou de transfert dont les bénéficiaires sont des personnes physiques et pour les contrats comportant une valeur de rachat ou de transfert, la revalorisation de la part du capital garanti en cas de décès dont la valeur en euros a été arrêtée ne peut être inférieure à un taux fixé par décret en Conseil d’Etat. Les frais prélevés après la date de connaissance du décès sont plafonnés dans des conditions fixées par décret en Conseil d’Etat. La mutuelle ou l’union ne peut prélever de frais au titre de l’accomplissement de ses obligations de recherche et d’information."
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "modification": {
+                                                    "article": "L. 223-21",
+                                                    "changes": [
+                                                        {
+                                                            "type": "suppression",
+                                                            "contenu": {
+                                                                "original": "Après le mot: «adhérent», la fin du premier alinéa est supprimée"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "remplacement",
+                                                            "contenu": {
+                                                                "original": "Le neuvième alinéa est remplacé par deux alinéas ainsi rédigés:",
+                                                                "nouveau": "Pour les contrats comportant un terme, la mutuelle"
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "chapitre": {
+                "titre": "Chapitre des dispositions relatives aux contrats d'assurance",
+                "articles": [
+                    {
+                        "numero": "L. 223-22-1",
+                        "contenu": {
+                            "introduction": "La mutuelle ou l’union d’assurance dispose d’un délai de quinze jours, après réception de l’avis de décès et de sa prise de connaissance des coordonnées du bénéficiaire ou au terme prévu pour l’opération d’assurance, afin de demander au bénéficiaire de l’opération d’assurance sur la vie de lui fournir l’ensemble des pièces nécessaires au paiement.",
+                            "délai_versement": "A réception de ces pièces, la mutuelle ou l’union verse, dans un délai qui ne peut excéder un mois, le capital ou la rente garantis au bénéficiaire de l’opération d’assurance sur la vie.",
+                            "demande_pieces": "Plusieurs demandes de pièces formulées par la mutuelle ou l’union ne peuvent concerner des pièces identiques ou redondantes.",
+                            "interets": "Au-delà du délai prévu au deuxième alinéa, le capital non versé produit de plein droit intérêt au double du taux légal durant deux mois puis, à l’expiration de ce délai de deux mois, au triple du taux légal.",
+                            "omission": "Si, au-delà du délai de quinze jours mentionné au premier alinéa, la mutuelle ou l’union a omis de demander au bénéficiaire l’une des pièces nécessaires au paiement, cette omission n’est pas suspensive du délai de versement mentionné au présent article."
+                        }
+                    },
+                    {
+                        "numero": "L. 223-25-4",
+                        "contenu": {
+                            "introduction": "I. – Les sommes dues au titre des contrats d’assurance sur la vie et des bons ou contrats de capitalisation qui ne font pas l’objet d’une demande de versement des prestations ou du capital sont déposées à la Caisse des dépôts et consignations à l’issue d’un délai de dix ans à compter de la date de la prise de connaissance par l’assureur du décès de l’assuré ou de l’échéance du contrat.",
+                            "depot": "Le dépôt intervient dans le mois suivant l’expiration de ce délai. Les sommes dues au titre d’un contrat d’assurance temporaire en cas de décès ne font pas l’objet de ce dépôt lorsque le décès de l’assuré est intervenu antérieurement au 1er janvier 2015.",
+                            "numeraires": "Le dépôt à la Caisse des dépôts et consignations des sommes dues au titre des contrats mentionnés au premier alinéa du présent I et comportant, en tout ou partie, des engagements exprimés en unités de compte mentionnés au second alinéa de l’article L. 223-2 ou affectés à l’acquisition de droits donnant lieu à la constitution d’une provision de diversification s’effectue en numéraire.",
+                            "valeur_engagements": "La valeur de ces engagements ou de ces droits est celle atteinte à l’expiration du délai de dix ans mentionné au premier alinéa du présent I, sauf si les stipulations contractuelles prévoient une date antérieure.",
+                            "versement_numeraires": "Le membre participant ou les bénéficiaires des sommes déposées à la Caisse des dépôts et consignations ne peuvent en obtenir le versement qu’en numéraire, nonobstant toute stipulation contraire.",
+                            "transmission_informations": "Les mutuelles et les unions transmettent à la Caisse des dépôts et consignations les informations nécessaires, le cas échéant, au versement des sommes mentionnées au troisième alinéa du présent I au membre participant ou à ses bénéficiaires.",
+                            "conservation_informations": "Jusqu’à l’expiration du délai mentionné au III, elles conservent les informations et documents relatifs à l’encours des contrats à la date du dépôt prévu au deuxième alinéa du présent I, à la computation du délai mentionné au premier alinéa et au régime d’imposition."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "chapitre": {
+                "titre": "Chapitre Non Spécifié",
+                "articles": [
+                    {
+                        "article": {
+                            "titre": "Article Non Spécifié",
+                            "sections": [
+                                {
+                                    "section": {
+                                        "titre": "I",
+                                        "contenu": [
+                                            "Les informations et documents permettant d’identifier les membres participants et les bénéficiaires de ces contrats sont transmis à la Caisse des dépôts et consignations à sa demande.",
+                                            "Elles conservent également les informations et documents permettant d’apprécier qu’elles ont satisfait à leurs obligations en matière de contrats non réglés.",
+                                            "Le dépôt des sommes à la Caisse des dépôts et consignations en application du présent I est libératoire de toute obligation pour les mutuelles et les unions et les membres participants, à l’exception des obligations en matière de conservation d’informations et de documents prévues à l’avant-dernier alinéa.",
+                                            "Ce caractère libératoire n’emporte cependant pas exonération de responsabilité pour les manquements commis antérieurement à ce dépôt."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "section": {
+                                        "titre": "II",
+                                        "contenu": [
+                                            "Six mois avant l’expiration du délai mentionné au premier alinéa du I du présent article, les mutuelles et les unions informent le membre participant ou les bénéficiaires du contrat, par tout moyen à leur disposition, de la mise en œuvre du présent article.",
+                                            "La Caisse des dépôts et consignations organise, dans le respect de la loi no 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, la publicité appropriée de l’identité des membres participants des contrats dont les sommes garanties ont fait l’objet du dépôt mentionné au I du présent article, afin de permettre aux membres participants ou aux bénéficiaires des contrats de percevoir les sommes qui leur sont dues.",
+                                            "Ces derniers communiquent à la Caisse des dépôts et consignations les informations permettant de vérifier leur identité et de déterminer le montant des sommes qui leur sont dues.",
+                                            "Le notaire chargé d’établir l’actif successoral en vue du règlement de la succession pour laquelle il a été mandaté obtient sur sa demande auprès de la Caisse des dépôts et consignations le versement des sommes déposées en application du I et dues aux ayants droit du défunt, lorsque ces sommes entrent dans l’actif successoral.",
+                                            "Le notaire restitue ces sommes aux ayants droit.",
+                                            "Le notaire joint à sa demande le mandat l’autorisant à agir au nom des ayants droit."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "section": {
+                                        "titre": "III",
+                                        "contenu": [
+                                            "Par dérogation au premier alinéa de l’article L. 518-24 du code monétaire et financier, les sommes déposées à la Caisse des dépôts et consignations en application du présent article et qui n’ont pas été réclamées par le membre participant ou leurs bénéficiaires sont acquises à l’Etat à l’issue d’un délai de vingt ans à compter de la date de leur dépôt à la Caisse des dépôts et consignations.",
+                                            "Jusqu’à l’expiration de ce délai, la Caisse des dépôts et consignations détient, pour le compte des membres participants ou de leurs bénéficiaires, les sommes qui lui ont été déposées.",
+                                            "Pour chaque dépôt correspondant à un contrat d’assurance sur la vie ou à un bon ou contrat de capitalisation, le montant des sommes versées par la Caisse des dépôts et consignations à son membre participant ou à ses bénéficiaires ou acquises à l’Etat ne peut être inférieur au montant des sommes déposées à la Caisse des dépôts et consignations, diminué, le cas échéant, des versements partiels réalisés par la Caisse des dépôts et consignations en application du présent article."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "section": {
+                                        "titre": "IV",
+                                        "contenu": [
+                                            "Un décret en Conseil d’Etat précise les modalités d’application du présent article."
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "article": {
+                            "titre": "Article 5",
+                            "sections": [
+                                {
+                                    "section": {
+                                        "contenu": [
+                                            "L’article L. 132-22-1 du code des assurances est complété par une phrase ainsi rédigée: 'Le montant des frais à l’entrée et sur versement mis à la charge de ce dernier au cours d’une année donnée ne peut excéder 5 % du montant des primes versées cette même année.'"
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "article": {
+                            "titre": "Article 6",
+                            "sections": [
+                                {
+                                    "section": {
+                                        "titre": "I",
+                                        "contenu": [
+                                            "Le code général des impôts est ainsi modifié:",
+                                            "1o Après le II bis de l’article 125-0 A, il est inséré un II ter."
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "chapitre": {
+                "titre": "Dispositions communes aux comptes inactifs et aux contrats d’assurance vie non réclamés",
+                "articles": [
+                    {
+                        "numero": "II ter",
+                        "contenu": "La fraction ayant le caractère de produits attachés aux bons ou contrats de capitalisation, ainsi qu’aux produits de même nature, notamment les contrats d’assurance sur la vie, des sommes versées par la Caisse des dépôts et consignations en application des articles L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité est soumise à l’impôt sur le revenu. L’option prévue au II du présent article est applicable dans les conditions d’application en vigueur à la date du dépôt à la Caisse des dépôts et consignations prévu au premier alinéa du I des mêmes articles L. 132-27-2 et L. 223-25-4."
+                    },
+                    {
+                        "numero": "I",
+                        "articles": [
+                            {
+                                "numero": "150-0 A",
+                                "sections": [
+                                    {
+                                        "numero": "5",
+                                        "contenu": "La fraction ayant le caractère de gain net des sommes versées par la Caisse des dépôts et consignations en application du cinquième alinéa du I de l’article L. 312-20 du code monétaire et financier est soumise à l’impôt sur le revenu. Les conditions d’application du présent 5 sont celles en vigueur à la date du dépôt à la Caisse des dépôts et consignations prévu au premier alinéa du même I."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "numero": "757 B",
+                        "sections": [
+                            {
+                                "numero": "II bis",
+                                "contenu": "Le présent article est applicable aux sommes versées, le cas échéant, par la Caisse des dépôts et consignations en application des articles L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité."
+                            }
+                        ]
+                    },
+                    {
+                        "numero": "990 I",
+                        "modifications": [
+                            {
+                                "type": "ajout",
+                                "contenu": "Après le I bis, il est inséré un I ter ainsi rédigé: Le prélèvement prévu au I est applicable aux sommes versées au bénéficiaire par la Caisse des dépôts et consignations en application des articles L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité."
+                            },
+                            {
+                                "type": "modification",
+                                "contenu": "Au premier alinéa du II, après le mot: «assimilés», sont insérés les mots: «ou, dans le cas prévu au I ter, par la Caisse des dépôts et consignations.»"
+                            }
+                        ]
+                    },
+                    {
+                        "numero": "L. 181-0 B",
+                        "contenu": "Par dérogation aux articles L. 180 et L. 186 du présent livre, l’administration dispose, pour le contrôle des droits de mutation par décès dus sur les sommes versées par la Caisse des dépôts et consignations en application du V de l’article L. 312-20 du code monétaire et financier et du dernier alinéa du III des articles L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité, d’un droit de reprise qui s’exerce jusqu’à la fin de la troisième année suivant celle de l’enregistrement d’un acte ou d’une déclaration qui révèle suffisamment l’exigibilité de ces droits ou, en l’absence d’un tel acte ou d’une telle déclaration, jusqu’à l’expiration de la sixième année suivant celle du versement de ces sommes."
+                    },
+                    {
+                        "numero": "7",
+                        "contenu": "Au premier alinéa de l’article L. 932-23 du code de la sécurité sociale, les références: «des articles L. 132-2, L. 132-8 et L. 132-9» sont remplacées par les références: «de l’article L. 132-2, des huit premiers alinéas de l’article L. 132-8 et de l’article L. 132-9»."
+                    },
+                    {
+                        "numero": "8",
+                        "sections": [
+                            {
+                                "numero": "I",
+                                "contenu": "La section 2 du chapitre III du titre II de la première partie du livre des procédures fiscales est ainsi modifiée: Le V est complété par un article L. 151 B ainsi rédigé: 1. Le notaire chargé d’établir l’actif successoral en vue du règlement de la succession pour laquelle il a été mandaté demande à l’administration fiscale et obtient de celle-ci la communication des informations détenues par celle-ci en application de l’article 1649 A du code général des impôts, afin d’identifier l’ensemble des comptes bancaires ouverts au nom du défunt."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "chapitre": {
+                "titre": "Dispositions transitoires et finales",
+                "articles": [
+                    {
+                        "numero": 1,
+                        "sections": [
+                            {
+                                "numero": 1,
+                                "contenu": "Le notaire chargé d’établir l’actif successoral en vue du règlement de la succession pour laquelle il a été mandaté obtient, sur sa demande, auprès de l’administration fiscale la communication des informations détenues par celle-ci en application du I de l’article 1649 ter du code général des impôts, afin d’identifier l’ensemble des contrats de capitalisation souscrits par le défunt."
+                            },
+                            {
+                                "numero": 2,
+                                "contenu": "Le notaire joint à sa demande le mandat l’autorisant à agir au nom des ayants droit."
+                            },
+                            {
+                                "numero": 3,
+                                "contenu": "Le notaire mandaté par le bénéficiaire éventuel d’un contrat d’assurance sur la vie dont le défunt était l’assuré obtient, sur sa demande auprès de l’administration fiscale, la communication des informations détenues par celle-ci en application du même I et relatives aux contrats dont le mandant est identifié comme bénéficiaire, à l’exclusion des informations relatives à d’éventuels tiers bénéficiaires."
+                            },
+                            {
+                                "numero": 4,
+                                "contenu": "Le notaire joint à sa demande le mandat l’autorisant à agir au nom du bénéficiaire éventuel."
+                            }
+                        ]
+                    },
+                    {
+                        "numero": 2,
+                        "sections": [
+                            {
+                                "numero": 1,
+                                "contenu": "Le VII est complété par un 9o ainsi rédigé: 9o Recherche des bénéficiaires d’un contrat d’assurance sur la vie non réclamé."
+                            },
+                            {
+                                "numero": 2,
+                                "contenu": "Art. L. 166 E. – Afin de répondre à la demande d’un organisme d’assurance qui recherche le bénéficiaire d’un contrat d’assurance sur la vie conformément au dernier alinéa de l’article L. 132-8 du code des assurances, les organismes professionnels mentionnés au II des articles L. 132-9-3 du même code et L. 223-10-2 du code de la mutualité obtiennent de l’administration fiscale les coordonnées des personnes physiques concernées."
+                            }
+                        ]
+                    },
+                    {
+                        "numero": 3,
+                        "sections": [
+                            {
+                                "numero": 1,
+                                "contenu": "Dans le cas où le bénéficiaire d’un contrat d’assurance sur la vie est l’ayant droit de l’assuré décédé, l’organisme d’assurance qui a connaissance du décès de ce dernier obtient sur sa demande auprès du notaire chargé de la succession les informations nécessaires à l’identification de cet ayant droit."
+                            },
+                            {
+                                "numero": 2,
+                                "contenu": "L’organisme d’assurance joint à sa demande un certificat établissant son obligation vis-à-vis de l’ayant droit du défunt, bénéficiaire du contrat d’assurance sur la vie."
+                            }
+                        ]
+                    },
+                    {
+                        "numero": 4,
+                        "sections": [
+                            {
+                                "numero": 1,
+                                "contenu": "Dans le cadre de la recherche des bénéficiaires d’un contrat d’assurance sur la vie, l’organisme d’assurance qui a connaissance du décès d’un assuré demande auprès de l’autorité compétente une copie intégrale de l’acte de décès."
+                            },
+                            {
+                                "numero": 2,
+                                "contenu": "Si mention est portée d’un acte de notoriété, l’organisme d’assurance demande au notaire qui a établi ce dernier de lui adresser les informations mentionnées au II."
+                            }
+                        ]
+                    },
+                    {
+                        "numero": 5,
+                        "sections": [
+                            {
+                                "numero": 1,
+                                "contenu": "Au premier alinéa de l’article L. 518-15-3 du code monétaire et financier, après le mot: «financières», sont insérés les mots: «, dont celles mentionnées à l’article L. 312-20 du présent code, à l’article L. 132-27-2 du code des assurances et à l’article L. 223-25-4 du code de la mutualité»."
+                            }
+                        ]
+                    },
+                    {
+                        "numero": 6,
+                        "sections": [
+                            {
+                                "numero": 1,
+                                "contenu": "L’article L. 518-24 du code monétaire et financier est ainsi modifié: 1o Le début du premier alinéa est ainsi rédigé: «Sous réserve du III des articles L. 312-20 du présent code, L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité, les sommes déposées… (le reste sans changement.)»."
+                            },
+                            {
+                                "numero": 2,
+                                "contenu": "A la fin du troisième alinéa, les mots: «au Journal officiel» sont remplacés par les mots: «par voie électronique»."
+                            }
+                        ]
+                    },
+                    {
+                        "numero": 7,
+                        "sections": [
+                            {
+                                "numero": 1,
+                                "contenu": "Le chapitre VI du titre II du livre Ier de la première partie du code général de la propriété des personnes publiques est ainsi modifié: 1o L’article L. 1126-1 est ainsi modifié: a) Le 2o est abrogé; b) Les 3o et 4o sont complétés par les mots: «et n’ont pas fait l’objet d’un dépôt à la Caisse des dépôts et consignations en application de l’article L. 312-20 du code monétaire et financier et que le titulaire du compte, son représentant légal ou la personne habilitée par lui n’a effectué aucune opération sur un autre compte ouvert à son nom dans le même établissement»."
+                            },
+                            {
+                                "numero": 2,
+                                "contenu": "Le 5o est ainsi modifié: – après le mot: «vie», sont insérés les mots: «et de bons ou»."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "chapitre": {
+                "titre": "Modifications législatives",
+                "articles": [
+                    {
+                        "article": {
+                            "numero": 12,
+                            "contenu": {
+                                "modification": {
+                                    "loi": "loi no 77-4 du 3 janvier 1977",
+                                    "article_modifie": "article 189 bis du code de commerce",
+                                    "modifications": [
+                                        {
+                                            "type": "suppression",
+                                            "description": "Les deux premiers alinéas sont supprimés."
+                                        },
+                                        {
+                                            "type": "remplacement",
+                                            "description": "Le troisième alinéa est remplacé par deux alinéas ainsi rédigés:",
+                                            "nouveaux_alineas": [
+                                                {
+                                                    "texte": "Les sociétés ou établissements à caractère commercial peuvent déposer à la Caisse des dépôts et consignations les titres émis par eux et mentionnés à l’article L. 1126-1 du code général de la propriété des personnes publiques lorsqu’il s’est écoulé plus de dix ans sans réclamation des titulaires depuis le jour où ces derniers ont eu le droit d’en exiger le paiement."
+                                                },
+                                                {
+                                                    "texte": "Ces titres sont détenus par la Caisse des dépôts et consignations, pour le compte de leurs détenteurs, jusqu’à l’expiration du délai prévu au premier alinéa de l’article L. 518-24 du code monétaire et financier."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "article": {
+                            "numero": 13,
+                            "contenu": {
+                                "sections": [
+                                    {
+                                        "section": {
+                                            "titre": "I.",
+                                            "description": "Les dépôts et avoirs inscrits sur les comptes inactifs mentionnés à l’article L. 312-19 du code monétaire et financier sont versés à l’Etat si, à la date d’entrée en vigueur de la présente loi, un délai de trente ans s’est écoulé.",
+                                            "conditions": [
+                                                {
+                                                    "condition": "Pour les comptes inactifs mentionnés au 1o du I du même article, depuis la date de la dernière opération, hors inscription d’intérêts et débit par l’établissement tenant le compte de frais et commissions de toute nature ou versement de produits ou remboursement de titres de capital ou de créance."
+                                                },
+                                                {
+                                                    "condition": "Pour les comptes inactifs mentionnés au 2o du même I, depuis le décès du titulaire du compte."
+                                                }
+                                            ],
+                                            "transfert": {
+                                                "description": "Leur transfert à l’Etat est effectué, en numéraire, dans l’année qui suit la date d’entrée en vigueur de la présente loi, par les établissements tenant les comptes sur lesquels ils sont inscrits.",
+                                                "liquidation": {
+                                                    "description": "Les avoirs en instruments financiers sont liquidés par l’établissement tenant le compte, nonobstant toute stipulation contraire, dans les meilleurs délais.",
+                                                    "responsabilite": "Cet établissement ne peut être tenu responsable des effets de la liquidation sur la valeur des avoirs.",
+                                                    "produit_liquidation": "Le produit de la liquidation est transféré à l’Etat dans le mois suivant la liquidation effective des titres lorsque la liquidation n’a pu être réalisée dans l’année qui suit l’entrée en vigueur de la présente loi."
+                                                },
+                                                "exceptions": "L’avant-dernier alinéa du présent I ne s’applique pas aux droits d’associé et aux titres financiers mentionnés aux 1 et 2 du II de l’article L. 211-1 du code monétaire et financier non admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation."
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "section": {
+                                            "titre": "II.",
+                                            "description": "Les dépôts et avoirs inscrits sur les comptes inactifs mentionnés à l’article L. 312-19 du code monétaire et financier sont déposés à la Caisse des dépôts et consignations, dans les conditions prévues à l’article L. 312-20 du même code, si, à la date d’entrée en vigueur de la présente loi.",
+                                            "conditions": [
+                                                {
+                                                    "condition": "Pour les comptes inactifs mentionnés au 1° du I de l’article L. 312-19 dudit code, un délai compris entre dix ans et trente ans s’est écoulé depuis la date de la dernière opération, hors inscription d’intérêts et débit par l’établissement tenant le compte de frais et commissions de toute nature ou versement de produits ou remboursement de titres de capital ou de créance."
+                                                },
+                                                {
+                                                    "condition": "Pour les comptes inactifs mentionnés au 2o du même I, un délai compris entre trois ans et..."
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "loi": {
+                "chapitre": {
+                    "titre": "Dispositions relatives aux comptes et contrats non réclamés",
+                    "articles": [
+                        {
+                            "article": {
+                                "titre": "Article I",
+                                "sections": [
+                                    {
+                                        "section": {
+                                            "titre": "Dépôt à la Caisse des dépôts et consignations",
+                                            "contenu": "Le dépôt à la Caisse des dépôts et consignations est effectué, dans l’année qui suit l’entrée en vigueur de la présente loi, par les personnes tenant les comptes sur lesquels ils sont inscrits."
+                                        }
+                                    },
+                                    {
+                                        "section": {
+                                            "titre": "Acquisition des sommes non réclamées",
+                                            "contenu": "Par dérogation au III de l’article L. 312-20 du même code, les sommes déposées à la Caisse des dépôts et consignations et qui n’ont pas été réclamées par leurs titulaires ou leurs ayants droit sont acquises à l’Etat à l’issue d’un délai de trente ans à compter des événements mentionnés aux 1o et 2o du présent II."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "article": {
+                                "titre": "Article II",
+                                "sections": [
+                                    {
+                                        "section": {
+                                            "titre": "Recherche du titulaire d'un coffre-fort",
+                                            "contenu": "Lorsqu’à la date d’entrée en vigueur de la présente loi, le titulaire d’un coffre-fort mis à disposition par un établissement de crédit, son représentant légal ou la personne habilitée par lui ne s’est pas manifesté, sous quelque forme que ce soit, pendant une durée de plus de trente ans et que les frais annuels de location ne sont plus acquittés depuis au moins un an, l’établissement de crédit procède à la recherche du titulaire éventuellement décédé dans les conditions prévues à l’avant-dernier alinéa du I de l’article L. 312-19."
+                                        }
+                                    },
+                                    {
+                                        "section": {
+                                            "titre": "Information du titulaire",
+                                            "contenu": "Il informe, par courrier recommandé et par tout autre moyen à sa disposition, ce titulaire, son représentant légal, la personne habilitée par lui ou, le cas échéant, ses ayants droit connus de l’établissement, dans un délai de trois mois, et lui indique les conséquences prévues par les trois derniers alinéas du présent III."
+                                        }
+                                    },
+                                    {
+                                        "section": {
+                                            "titre": "Ouverture du coffre-fort",
+                                            "contenu": "A l’issue d’un délai de six mois à compter de cette opération d’information, l’établissement est autorisé à procéder à l’ouverture du coffre-fort, en présence d’un huissier de justice qui dresse l’inventaire de son contenu, et, selon les cas, soit à liquider les titres déposés dans le coffre-fort dans les conditions définies au cinquième alinéa du I de l’article L. 312-20 du code monétaire et financier, soit à faire vendre judiciairement aux enchères publiques les biens déposés dans le coffre-fort."
+                                        }
+                                    },
+                                    {
+                                        "section": {
+                                            "titre": "Produit de la vente",
+                                            "contenu": "Le produit de la vente, déduction faite des frais annuels de location impayés, à l’exclusion de toute pénalité et de tout intérêt de retard, et des frais liés à l’ouverture du coffre-fort et à la vente des biens, est acquis à l’Etat."
+                                        }
+                                    },
+                                    {
+                                        "section": {
+                                            "titre": "Disposition des objets de faible valeur",
+                                            "contenu": "L’établissement de crédit est autorisé, pour les objets d’une valeur estimée par une personne habilitée pour organiser et réaliser les ventes judiciaires de meubles aux enchères publiques, et inférieure à un seuil fixé par un arrêté du ministre chargé de l’économie, ainsi que pour les objets qui n’ont pu être vendus judiciairement aux enchères publiques après deux tentatives intervenues à six mois d’intervalle, soit à les détruire, soit à les conserver pour le compte du titulaire ou de ses ayants droit, soit, pour les biens pouvant présenter un intérêt culturel ou historique, à les transférer à un service public intervenant dans ces domaines."
+                                        }
+                                    },
+                                    {
+                                        "section": {
+                                            "titre": "Responsabilité de l'établissement de crédit",
+                                            "contenu": "L’établissement de crédit ne peut être tenu pour responsable des effets de la vente sur la valeur des biens concernés."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "article": {
+                                "titre": "Article III",
+                                "sections": [
+                                    {
+                                        "section": {
+                                            "titre": "Sommes dues au titre des contrats d’assurance",
+                                            "contenu": "Les sommes dues au titre des contrats d’assurance sur la vie ou des bons et contrats de capitalisation qui, à la date d’entrée en vigueur de la présente loi, n’ont pas été réclamées par leurs souscripteurs ou leurs bénéficiaires depuis au moins trente ans à compter de l’échéance du contrat ou de la date du décès de l’assuré sont acquises à l’Etat."
+                                        }
+                                    },
+                                    {
+                                        "section": {
+                                            "titre": "Transfert à l'Etat",
+                                            "contenu": "Leur transfert à l’Etat est effectué par l’organisme d’assurance dans l’année qui suit la date d’entrée en vigueur de la présente loi."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "article": {
+                                "titre": "Article IV",
+                                "sections": [
+                                    {
+                                        "section": {
+                                            "titre": "Sommes dues au titre des contrats d’assurance (délai de dix ans)",
+                                            "contenu": "Les sommes dues au titre des contrats d’assurance sur la vie ou des bons et contrats de capitalisation qui, à la date d’entrée en vigueur de la présente loi, n’ont pas été réclamées par leurs souscripteurs ou leurs bénéficiaires depuis au moins dix ans à compter de l’échéance du contrat ou de la date à laquelle l’organisme d’assurance a eu connaissance du décès de l’assuré et, au plus, trente ans à compter du décès de l’assuré ou du terme."
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "loi": {
+                "articles": [
+                    {
+                        "article": 13,
+                        "sections": [
+                            {
+                                "section": "I",
+                                "contenu": "Les sommes dues au titre du contrat sont déposées à la Caisse des dépôts et consignations, dans les conditions prévues à l’article L. 132-27-2 du code des assurances ou à l’article L. 223-25-4 du code de la mutualité."
+                            },
+                            {
+                                "section": "II",
+                                "contenu": "Le dépôt à la Caisse des dépôts et consignations est effectué par l’organisme d’assurance dans l’année qui suit la date d’entrée en vigueur de la présente loi."
+                            },
+                            {
+                                "section": "III",
+                                "contenu": "Par dérogation au III des mêmes articles L. 132-27-2 et L. 223-25-4, les sommes déposées à la Caisse des dépôts et consignations et qui n’ont pas été réclamées par leurs souscripteurs ou leurs bénéficiaires sont acquises à l’Etat à l’issue d’un délai de trente ans à compter du décès de l’assuré ou de l’échéance du contrat."
+                            },
+                            {
+                                "section": "VI",
+                                "contenu": "Six mois avant le transfert à l’Etat mentionné au premier alinéa des I ou II ou avant le dépôt à la Caisse des dépôts et consignations mentionné au premier alinéa des II ou V l’établissement teneur de compte ou l’assureur informe, par courrier recommandé et par tout autre moyen à sa disposition, les titulaires et souscripteurs, leurs représentants légaux, leurs ayants droit ou les bénéficiaires des comptes ou contrats dont les dépôts et avoirs font l’objet des dispositions prévues aux mêmes alinéas de la mise en œuvre du présent article."
+                            },
+                            {
+                                "section": "VII",
+                                "contenu": "Dans un délai de six mois à compter de l’entrée en vigueur de la présente loi, l’établissement teneur de compte ou l’assureur informe les titulaires de comptes et les souscripteurs de contrats d’assurance sur la vie et de bons ou contrats de capitalisation des dispositions prévues, respectivement, aux articles L. 312-20 du code monétaire et financier, L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité."
+                            },
+                            {
+                                "section": "VIII",
+                                "contenu": "Un décret en Conseil d’Etat précise les modalités d’application des I à VII du présent article."
+                            },
+                            {
+                                "section": "IX",
+                                "contenu": "L’Autorité de contrôle prudentiel et de résolution contrôle le respect du présent article. Elle remet, avant le 1er mai 2016, un rapport au Parlement décrivant, pour les années 2014 et 2015: 1o Les actions menées pour contrôler le respect par les organismes d’assurance de leurs obligations de recherche et d’information des souscripteurs et des bénéficiaires de contrats d’assurance sur la vie ou de bons ou contrats de capitalisation ainsi que de l’obligation de reversement des sommes acquises à l’Etat en application de l’article L. 1126-1 du code général de la propriété des personnes publiques; 2o L’évolution de l’encours et du nombre de contrats d’assurance sur la vie et de bons ou contrats de capitalisation non réglés."
+                            }
+                        ]
+                    },
+                    {
+                        "article": 14,
+                        "contenu": "La première phrase du II de l’article 43 de la loi no 2014-344 du 17 mars 2014 relative à la consommation est ainsi rédigée: «Le I entre en vigueur le 1er juillet 2016.»"
+                    },
+                    {
+                        "article": 15,
+                        "contenu": "La Caisse des dépôts et consignations publie chaque année le nombre de dépôts, d’avoirs, de contrats d’assurance sur la vie et de bons ou contrats de capitalisation qui y ont été déposés en application de la présente loi. Elle publie également, pour chacun des produits financiers susmentionnés, le montant déposé au cours de l’année, le montant total des sommes détenues ainsi que le montant versé aux titulaires, aux ayants droit ou aux bénéficiaires au cours de l’année. Elle adresse un rapport annuel au Parlement sur le suivi et la gestion des sommes qu’elle détient au titre de la présente loi."
+                    },
+                    {
+                        "article": 16,
+                        "contenu": "La présente loi entre en vigueur le 1er janvier 2016, à l’exception de l’article 5 et des II et III de l’article 8 qui entrent en vigueur au 1er janvier 2015, et à l’exception de l’article 14 qui entre en vigueur au lendemain de la publication de la même loi. La présente loi sera exécutée comme loi de l’Etat."
+                    }
+                ],
+                "date": "Fait à Paris, le 13 juin 2014.",
+                "signataires": [
+                    {
+                        "titre": "Président de la République",
+                        "nom": "FRANÇOIS HOLLANDE"
+                    },
+                    {
+                        "titre": "Premier ministre",
+                        "nom": "MANUEL VALLS"
+                    },
+                    {
+                        "titre": "Ministre des finances et des comptes publics",
+                        "nom": "MICHEL SAPIN"
+                    }
+                ],
+                "travaux_preparatoires": {
+                    "loi": "no 2014-617",
+                    "assemblee_nationale": {
+                        "proposition_de_loi": "no 1546",
+                        "rapport": "M. Christian Eckert"
+                    }
+                }
+            }
+        },
+        {
+            "legislation": {
+                "commission_des_finances": {
+                    "numero": "1765",
+                    "discussion_et_adoption": {
+                        "date": "19 février 2014",
+                        "type": "TA",
+                        "numero_ta": "303"
+                    }
+                },
+                "senat": {
+                    "proposition_de_loi": {
+                        "adoption_par_assemblee_nationale": {
+                            "engagement_procedure_acceleree": true,
+                            "numero": "385",
+                            "annee": "2013-2014"
+                        }
+                    },
+                    "rapport": {
+                        "auteur": "M. François Marc",
+                        "commission": "commission des finances",
+                        "numero": "471",
+                        "annee": "2013-2014"
+                    },
+                    "texte_de_la_commission": {
+                        "numero": "472",
+                        "annee": "2013-2014"
+                    },
+                    "discussion_et_adoption": {
+                        "date": "7 mai 2014",
+                        "type": "TA",
+                        "numero_ta": "110",
+                        "annee": "2013-2014"
+                    }
+                },
+                "assemblee_nationale": {
+                    "projet_de_loi": {
+                        "modifie_par_senat": true,
+                        "numero": "1927"
+                    },
+                    "rapport": {
+                        "auteur": "M. Alain Fauré",
+                        "commission": "commission mixte paritaire",
+                        "numero": "1956"
+                    },
+                    "discussion_et_adoption": {
+                        "date": "26 mai 2014",
+                        "type": "TA",
+                        "numero_ta": "343"
+                    }
+                },
+                "senat_2": {
+                    "rapport": {
+                        "auteur": "M. François Marc",
+                        "commission": "commission mixte paritaire",
+                        "numero": "541",
+                        "annee": "2013-2014"
+                    },
+                    "texte_de_la_commission": {
+                        "numero": "542",
+                        "annee": "2013-2014"
+                    },
+                    "discussion_et_adoption": {
+                        "date": "3 juin 2014",
+                        "type": "TA",
+                        "numero_ta": "129",
+                        "annee": "2013-2014"
+                    }
+                }
+            }
+        }
+    ]
+}

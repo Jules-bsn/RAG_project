@@ -1,0 +1,65 @@
+{
+    "chapitres": [
+        {
+            "titre": "Chapitre I",
+            "articles": [
+                {
+                    "numero": "Article 1",
+                    "contenu": {
+                        "paragraphes": [
+                            "t à son nom dans les livres de l’établissement pendant une durée d’au moins dix ans et que, à l’issue de cette période de dix ans, les frais de location n’ont pas été payés au moins une fois.",
+                            "Lorsqu’un coffre-fort est considéré comme inactif au sens du premier alinéa du présent VI, l’établissement de crédit procède à la recherche du titulaire éventuellement décédé dans les conditions prévues à l’avant-dernier alinéa du I de l’article L. 312-19. Il informe le titulaire, son représentant légal, la personne habilitée par lui ou, le cas échéant, ses ayants droit connus de l’établissement des conséquences prévues aux deux derniers alinéas du présent VI liées à l’inactivité du coffre-fort en application du présent article. Ces deux opérations de recherche et d’information sont renouvelées tous les cinq ans à compter de la date du premier impayé.",
+                            "A l’expiration d’un délai de vingt ans à compter de la date du premier impayé mentionné au premier alinéa du présent VI, l’établissement est autorisé à procéder à l’ouverture du coffre-fort, en présence d’un huissier de justice qui dresse l’inventaire de son contenu, et, selon les cas, soit à liquider les titres déposés dans le coffre-fort dans les conditions définies au cinquième alinéa du I du présent article, soit à faire vendre judiciairement aux enchères publiques les biens déposés dans le coffre-fort. Six mois avant l’expiration de ce délai, il informe, par courrier recommandé et par tout autre moyen à sa disposition, le titulaire, son représentant légal, la personne habilitée par lui ou, le cas échéant, ses ayants droit connus de l’établissement de la mise en œuvre du présent alinéa.",
+                            "Le produit de la vente, déduction faite des frais annuels de location impayés, à l’exclusion de toute pénalité et de tout intérêt de retard, et des frais liés à l’ouverture du coffre-fort et à la vente des biens, est acquis à l’Etat.",
+                            "L’établissement de crédit est autorisé, pour les objets d’une valeur estimée par une personne habilitée pour organiser et réaliser les ventes judiciaires de meubles aux enchères publiques, et inférieure à un seuil fixé par un arrêté du ministre chargé de l’économie, ainsi que pour les objets qui n’ont pu être vendus judiciairement aux enchères publiques après deux tentatives intervenues à six mois d’intervalle, soit à les détruire, soit à les conserver pour le compte du titulaire ou de ses ayants droit, soit, pour les biens pouvant présenter un intérêt culturel ou historique, à les transférer à un service public intervenant dans ces domaines. Dans ce dernier cas, la personne morale dont dépend ce service public devient propriétaire du bien transféré.",
+                            "L’établissement de crédit ne peut être tenu pour responsable des effets de la vente sur la valeur des biens concernés.",
+                            "VII. – Les conditions d’application du présent article sont déterminées par décret en Conseil d’Etat."
+                        ]
+                    }
+                },
+                {
+                    "numero": "Article 2",
+                    "contenu": {
+                        "paragraphes": [
+                            "Le chapitre Ier du titre II du même livre III est complété par un article L. 321-4 ainsi rédigé:",
+                            "Art. L. 321-4. – Les articles L. 312-19 et L. 312-20 sont applicables aux comptes ouverts dans les livres des personnes qui fournissent des services d’investissement ou des services connexes prévus aux articles L. 321-1 et L. 321-2."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "titre": "Chapitre II",
+            "articles": [
+                {
+                    "numero": "Article 3",
+                    "contenu": {
+                        "sections": [
+                            {
+                                "numero": "I",
+                                "contenu": {
+                                    "paragraphes": [
+                                        "La section 1 du chapitre II du titre III du livre Ier du code des assurances est ainsi modifiée:",
+                                        "1o L’article L. 132-5 est ainsi modifié:",
+                                        {
+                                            "modifications": [
+                                                {
+                                                    "description": "Le dernier alinéa est ainsi modifié:",
+                                                    "modifications_details": [
+                                                        "le mot: «précise» est remplacé par les mots: «et le contrat d’assurance sur la vie ne comportant pas de valeur de rachat dont les bénéficiaires sont des personnes physiques précisent»;",
+                                                        "les mots: «au plus tard du premier anniversaire» sont supprimés;",
+                                                        "sont ajoutés les mots et deux phrases ainsi rédigées: «ou, le cas échéant, jusqu’au dépôt de ce capital à la Caisse des dépôts et consignations en application de l’article L. 132-27-2. Les frais prélevés après la date de la connaissance du décès sont plafonnés dans des conditions fi"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
